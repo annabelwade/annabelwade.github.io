@@ -1,1 +1,1 @@
-# Wade A, Gray A, Christensen K, Kilhe O, Wortham C (02/2024), Estimating Global Ocean Absolute Geostrophic Velocities with Satellite and Autonomous Float Observations. Poster presented at Ocean Sciences Meeting 24, New Orleans, LA.
+### Wade A, Gray A, Christensen K, Kilhe O, Wortham C, Estimating Global Ocean Absolute Geostrophic Velocities with Satellite and Autonomous Float Observations. Poster presented at Ocean Sciences Meeting 24, New Orleans, LA. Feb 22, 2024.
