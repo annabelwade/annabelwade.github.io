@@ -99,6 +99,13 @@ h1 {
   50% { transform: rotate(10deg); }
 }
 
+/* ---- HR ---- */
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 0;
+}
+
 /* ---- Body text & links ---- */
 p { margin: 0 0 1.2rem; }
 
@@ -118,9 +125,10 @@ a:hover {
 
 /* ---- Socials footer ---- */
 .socials {
-  margin-top: 0;           /* removes top margin */
-  padding-top: 0;          /* removes top padding */
-  border-top: none;        /* removes the line */
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+  margin-bottom: 2.5rem;
   display: flex;
   gap: 1.25rem;
   justify-content: center;
